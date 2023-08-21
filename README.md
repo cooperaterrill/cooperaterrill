@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cooperaterrill
-- 👀 I’m interested in Data Science, Actuarial Science, and Mathematics
+- 👋 Hi, I’m @cooperaterrill (You can call me Cooper or Coop)
+- 👀 I’m interested in Data Science, Cybersecurity, and Mathematics
 - 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on statistical analysis
+- 💞️ I’m looking to collaborate on cybersecurity
 - 📫 How to reach me: cooperaterrill@gmail.com
 
 <!---
